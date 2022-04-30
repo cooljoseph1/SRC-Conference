@@ -1,1 +1,1 @@
-"These are the slides I used for my presentation at the BYU student research conference on inverse limits over the Hawaiian Earring." 
+These are the slides I used for my presentation at the BYU student research conference on inverse limits over the Hawaiian Earring.
